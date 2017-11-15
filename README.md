@@ -3,4 +3,6 @@ git练习
 
 
 hello github
-this is my first push
+this is my second push
+
+new content!!!
